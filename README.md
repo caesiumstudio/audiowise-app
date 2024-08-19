@@ -1,9 +1,9 @@
 <div align="center" style="width: 100%;">
-<img src= "https://caesiumstudio.github.io/csBooks-updates/assets/screenshots/msfg.jpg"/>
+<img src= "https://play-lh.googleusercontent.com/YhSVBCrxwr6uBJCUdKp6AJ4A89jnydaN4fJ4OCmviTCapXurnPYbTFetqqYQECWkuujf=w240-h480-rw"/>
 </div>
 
 <div align="center" style="width:100%">
-  <h1 align="center">csBooks - A Smart Book Manager</h1>
+  <h1 align="center">Audiowise - mp3 audiobooks and podcasts</h1>
 </div>
 
 <p align="center">
@@ -33,3 +33,4 @@ White noise is a powerful tool for improving focus, relaxation, and sleep.
 With Audiowise, you can listen to and relax while sleeping. 
 
 Start taking control of your digital content consumption today. Download Audiowise and listen to stay entertained, informed, and relaxed no matter where life takes you.
+
