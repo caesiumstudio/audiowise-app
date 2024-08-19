@@ -7,6 +7,13 @@
 </div>
 
 <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.jauntymarble.game">Get it from PlayStore</a>
+</p>
+<p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.jauntymarble.game">Get it from AppStore</a>
+</p>
+
+<p align="center">
     <a href="https://github.com/sindresorhus/awesome-electron"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 </p>
 
