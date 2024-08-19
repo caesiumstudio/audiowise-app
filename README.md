@@ -20,22 +20,29 @@
 Audiowise - mp3 podcast & books, provides you with a way to listen to YouTube videos as audio-only. With Audiowise you can download and listen to any audiobook or podcast from YouTube and keep track of your listening progress.
 
 **APP FEATURES**
+
 Ultimate Stop and Resume
+
 Whether commuting, traveling, or driving to work, you can always listen to your favorite YouTube videos, podcasts, and audiobooks from exactly the point where you left off.
 
 **Practice language listening skills**
+
 Learning a new language and want to improve your listening skills? Then listen to all your audio language lessons with this app. 
 
 **Finish all your audiobooks**
+
 You can listen to your audiobooks that you've been meaning to finish for a long time -  without worrying about internet connectivity. 
 
 **Listen to podcasts**
+
 Podcasts offer a world of knowledge and entertainment, and having them at your fingertips offline allows you to enjoy them during a long flight with airplane mode.
 
 **Learn new skills while you work**
+
 You can now enjoy your favorite novels, biographies, or self-help books without the need for an internet connection.  Start your literary journey during a workout, while cooking, or as you unwind before bed.
 
 **Sleep sounds and white noise**
+
 White noise is a powerful tool for improving focus, relaxation, and sleep. 
 With Audiowise, you can listen to and relax while sleeping. 
 
