@@ -10,7 +10,7 @@
     <a href="https://play.google.com/store/apps/details?id=com.jauntymarble.game">Get it from PlayStore</a>
 </p>
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.jauntymarble.game">Get it from AppStore</a>
+    <a href="https://apps.apple.com/us/app/audiowise-mp3-podcast-books/id6621180222">Get it from AppStore</a>
 </p>
 
 <p align="center">
