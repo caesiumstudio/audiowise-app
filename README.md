@@ -17,6 +17,7 @@
     <a href="https://github.com/sindresorhus/awesome-electron"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 </p>
 
+<div class="container">
 Audiowise - mp3 podcast & books, provides you with a way to listen to YouTube videos as audio-only. With Audiowise you can download and listen to any audiobook or podcast from YouTube and keep track of your listening progress.
 
 **APP FEATURES**
@@ -49,6 +50,10 @@ You can listen to your audiobooks that you've been meaning to finish for a long 
 
 Podcasts offer a world of knowledge and entertainment, and having them at your fingertips offline allows you to enjoy them during a long flight with airplane mode.
 
+**Free app for podcast on Android and iOS**
+
+Audiowise is the only truely free app for Android and iOS that provides you with absolutely free mp3 and mp4 podcats. You can download and podcast and listen to them offline. 
+
 **Learn new skills while you work**
 
 You can now enjoy your favorite novels, biographies, or self-help books without the need for an internet connection.  Start your literary journey during a workout, while cooking, or as you unwind before bed.
@@ -59,4 +64,5 @@ White noise is a powerful tool for improving focus, relaxation, and sleep.
 With Audiowise, you can listen to and relax while sleeping. 
 
 Start taking control of your digital content consumption today. Download Audiowise and listen to stay entertained, informed, and relaxed no matter where life takes you.
+</div>
 
